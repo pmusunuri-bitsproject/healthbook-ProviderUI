@@ -1,9 +1,9 @@
-body, html, #root, .app, .container {
+/*body, html, #root, .app, .container {
   width: 100%;
   height: 100%;
-}
+}*/
 
-
+/*
 .container {
   font-size: 28px;
   color: #fff;
@@ -54,4 +54,53 @@ body, html, #root, .app, .container {
  border-radius: 4px;
  background: #fff;
  cursor: pointer;
+}
+*/
+
+.width-30 {
+  width: 30%;
+}
+
+.width-25 {
+  width: 25%;
+}
+
+.width-75 {
+  width: 75%;
+}
+
+.margin-left-25 {
+  margin-left: 25%;
+}
+
+.margin-top-20 {
+  margin-top: 20vh;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.height-100 {
+  height: 100vh;
+}
+
+.height-20 {
+  height: 20vh;
+}
+
+.mt-10 {
+  margin-top: 56px;
+}
+
+.text-white-70 {
+ color: rgba(255, 255, 255, 0.7);
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.5)
+}
+
+.nav-link:hover {
+  color: rgba(255, 255, 255, 0.9)
 }
